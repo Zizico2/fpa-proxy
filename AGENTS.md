@@ -1,0 +1,1 @@
+Prefix shell commands with `rtk`. Preserve the IPMA/Prociv stack and repository boundaries. Use exact Git dependency revisions. Keep missing scores distinct from zero. Never infer live match state from calendar code 50. Run the repository verification recipes before publishing.

@@ -1,0 +1,96 @@
+[
+  {
+    "id": 871,
+    "count": 263,
+    "description": "",
+    "link": "https://portal.fpa.pt/?taxonomy=season&term=season-374",
+    "name": "Época 2026/27",
+    "slug": "season-374",
+    "taxonomy": "season",
+    "meta": {
+      "order": 0
+    },
+    "acf": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://portal.fpa.pt/wp-json/wp/v2/season/871",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://portal.fpa.pt/wp-json/wp/v2/season"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://portal.fpa.pt/wp-json/wp/v2/taxonomies/season"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://portal.fpa.pt/wp-json/wp/v2/document?season=871"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 870,
+    "count": 546,
+    "description": "",
+    "link": "https://portal.fpa.pt/?taxonomy=season&term=season-373",
+    "name": "Época 2025/26",
+    "slug": "season-373",
+    "taxonomy": "season",
+    "meta": {
+      "order": 1
+    },
+    "acf": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://portal.fpa.pt/wp-json/wp/v2/season/870",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://portal.fpa.pt/wp-json/wp/v2/season"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://portal.fpa.pt/wp-json/wp/v2/taxonomies/season"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://portal.fpa.pt/wp-json/wp/v2/document?season=870"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
+]
